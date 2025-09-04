@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\vinic\OneDrive\Área de Trabalho\CURSO-JAVA\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1763420889.index
+352220613.index

@@ -1,0 +1,25 @@
+package fundamentos;
+
+public class Temperatura {
+	
+	public static void main(String[] args) {
+		
+		// (°F - 32) X 5/9 = °C
+		
+		double f = 150.5;
+		final double ajuste = 32;
+		final double m = 5.0/9.0;
+		double c = (f - ajuste) * m;
+		
+		System.out.println("O RESULTADO É = " +c+ "°C");
+		
+		f = 0.0;
+		c = (f - ajuste) * m;
+		
+		System.out.println("O RESULTADO É = " +c+ "°C");
+		
+		
+		
+	}
+
+}
